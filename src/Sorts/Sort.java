@@ -1,13 +1,12 @@
 package Sorts;
 
-import 
+import java.util.ArrayList;
 /**
  *
  * @author larik
  */
 public class Sort {
-    public static void bubbleSort(ArrayList<> list){
-        //I've added a comment in here
-        //this will act as a revision
+    public static <T> void bubbleSort(ArrayList<T> list){
+        ArrayList<Integer> ints = new ArrayList();
     }
 }
